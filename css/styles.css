@@ -1,0 +1,18 @@
+nav {
+    background-color:grey;
+    padding: 60px;
+}
+nav ul{
+   width:100px;
+   margin: 0%;
+   display:inline-flex;
+   text-align: center;
+   line-height: 20px;
+}
+nav li{
+    width: 200px;
+    font-size: medium;
+    float: left;
+    font-size: larger;
+    margin-left: 80px ;
+}
