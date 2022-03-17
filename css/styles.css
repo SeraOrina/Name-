@@ -42,3 +42,8 @@ nav li{
      margin: 40px;
     
 }
+#form{
+    width: 80%;
+    height: auto;
+    padding: 2%
+}
