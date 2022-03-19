@@ -1,14 +1,12 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {AKAN NAME}
+
+#### By **{Sera Orina}**
 ## Description
 {This is a website that helps you calculate your akan name from the date you were born.It also helps calculate the day if yusers do not know. }
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+## BDD(Behaviuor Driven Development)
+* Fill in form for date of bith 
+* Calculate the day of birth
+* Then generate Akan name 
 
 ## Technologies used
 * HTML
@@ -20,9 +18,9 @@
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Live site 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{L
 ### License
-*{<link href="https://choosealicense.com/licenses/mit/"alt="MIT LICENSE"> }
+*{<a href="https://choosealicense.com/licenses/mit/">"MIT LICENSE"</a> }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
