@@ -1,8 +1,8 @@
 
   let  date= document.getElementById("date")
-  const month=document.getElementById("month")
-  const year=document.getElementById("year")
-  const form=document.getElementById("form")
+  let month=document.getElementById("month")
+  let year=document.getElementById("year")
+  let form=document.getElementById("form")
 
   form.addEventListener("submit",(e) => {
     e.preventDefault()
@@ -13,7 +13,10 @@
     if (date.value <0 || date.value>31) {
         alert("INVALID DATE")
     }
-    
+
+    if (month.value <0|| month.value>12) {
+        alert("INVALID MONTH")
+    }
    
      
   })
