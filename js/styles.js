@@ -1,9 +1,12 @@
-const name=document.getElementById("date")
-const password=document.getElementById("month")
-const form=document.getElementById("form")
 
-form.addEventListener("submit",(e)=> {
+  const date= document.getElementById("date")
+  const month=document.getElementById("month")
+  const year=document.getElementById("year")
+  const form=document.getElementById("form")
+
+  form.addEventListener("submit",(e) => {
     e.preventDefault()
-})
-let messages=[]
-if(
+          
+     let messages=[]
+     if
+  })
