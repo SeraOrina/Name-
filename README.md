@@ -10,7 +10,7 @@
 * Then generate Akan name 
 
 ## Technologies used
-g
+
 * HTML
 * CSS
 * JavaScript
@@ -19,7 +19,7 @@ g
 {Currently not any that I know of but open to nay contributions  }
 
 ## Live site 
-
+https://seraorina.github.io/Name-/
 
 ### License
 *{<a href="https://choosealicense.com/licenses/mit/">"MIT LICENSE"</a> }
